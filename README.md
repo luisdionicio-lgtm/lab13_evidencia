@@ -1,4 +1,4 @@
-###### LAB 13- LUIS DIONICIO BARTOLO
+# LAB 13 - LUIS DIONICIO BARTOLO
 
 #### Etapa 1: Creación del proyecto React + Vite + TypeScript
 
