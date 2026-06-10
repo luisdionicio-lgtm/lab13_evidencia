@@ -1,4 +1,4 @@
-# CineSpoilerS - Lab 13
+# CineSpoilerS - Lab 13 - Diego Sotelo
 
 ## Etapa 1: Creación del proyecto React + Vite + TypeScript
 
