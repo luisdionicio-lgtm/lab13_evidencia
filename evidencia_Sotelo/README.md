@@ -1,3 +1,24 @@
+###### LAB 13- LUIS DIONICIO BARTOLO
+
+#### Etapa 1: Creación del proyecto React + Vite + TypeScript
+
+
+
+
+## Etapa 2: Configuración de Tailwind CSS
+
+
+
+## Etapa 3: Configuración de shadcn/ui
+
+
+
+## Etapa 4: Construcción del layout principal de CineSpoilerS
+
+
+
+######
+
 # CineSpoilerS - Lab 13 - Diego Sotelo
 
 ## Etapa 1: Creación del proyecto React + Vite + TypeScript
@@ -15,3 +36,7 @@
 ## Etapa 4: Construcción del layout principal de CineSpoilerS
 
 ![Etapa 4](./image4.png)
+
+######
+
+
